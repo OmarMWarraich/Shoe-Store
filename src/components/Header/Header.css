@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+
+.header {
+  padding: 15px;
+  display: flex;
+  justify-content: space-around;
+  background-color: #0086c3;
+  color: white;
+  font-weight: 700;
+  font-size: 24px;
+  letter-spacing: 1.2px;
+  align-items: center;
+}
+
+svg {
+  transform: scale(1.5);
+}
+
+.header > div {
+  font-family: "Great Vibes", cursive;
+  letter-spacing: 2px;
+  font-weight: 400;
+  font-size: 28px;
+  transform: scale(1.5) rotate(-10deg);
+}
+
+nav {
+  display: flex;
+}
+
+li {
+  list-style: none;
+  padding: 0 15px;
+}
+
+.person:hover {
+  color: lightgray;
+}
+
+.cart:hover {
+  color: rgb(28, 255, 244);
+}
+
+.heart:hover {
+  color: red;
+}
+
+@media screen and (max-width: 600px) {
+  li {
+    padding: 0 10px;
+  }
+}
