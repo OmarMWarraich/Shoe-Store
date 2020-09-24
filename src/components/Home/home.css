@@ -15,7 +15,7 @@
     position: absolute;
     top: 20%;
     left: 10%;
-    color:purple;
+    color: gold;
     text-shadow: 2px 2px 4px #000000;
   }
   
@@ -32,7 +32,7 @@
   .overlayText > p {
     max-width: 500px;
     font-size: 20px;
-    color:purple;
+    color: yellowgreen;
     /* color: #4e0ce9; */
   }
   
@@ -51,7 +51,7 @@
     font-size: 20px;
     padding: 10px 20px;
     cursor: pointer;
-    color:purple;
+    color: gold;
     text-shadow: 2px 2px 4px #000000;
     font-weight: bolder;
     border: 2px solid white;
@@ -69,7 +69,7 @@
   }
   
   .homeNavbar > a {
-    color:purple !important;
+    color:gold !important;
     font-weight: bolder;
     font-size: 20px;
     border: none !important;

@@ -20,11 +20,11 @@ const Home = () => {
       <div className="overlayText">
         <h1>JOOTEY !</h1>
         <h3>Fall Collection 2020</h3>
-        <p><h3>
+        <p><h2>
           We offer comfortable shoes at highly 
           affordable prices while not compromising
           with the quality of shoes at the same time.
-          All our shoes are proudly made in Pakistan.</h3>
+          All our shoes are proudly made in Pakistan.</h2>
         </p>
 
         <button onClick={() => navigate("/shop/products")}>Shop Now</button>
