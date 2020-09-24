@@ -14,8 +14,8 @@ const Footer = () => {
       <NewsLetter />
       <div className="big">
         <div className="logoName">
-          <h3>Shoes</h3>
-          <p>Make your Shoes Bright</p>
+          <h4>JOOTEY!</h4>
+          <p>COMFORTABLE AND DURABLE</p>
         </div>
         <Boxes
           title="Products"
@@ -39,7 +39,7 @@ const Footer = () => {
           disable="true"
           title="Store Information"
           links={[
-            "Shoes Store, Tyre Market, Rawalpindi",
+            "JOOTEY, Tyre Market, Rawalpindi",
             "+923355574741",
             "earthling986@gmail.com",
             ".",

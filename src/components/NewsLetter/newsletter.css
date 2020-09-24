@@ -1,18 +1,18 @@
 .news {
     display: flex;
-    background-color: #29b6f6;
+    background-color:burlywood;
     justify-content: space-around;
     align-items: center;
   }
   
   .email {
     font-size: 2.2em;
-    color: blue;
+    color:brown;
   }
   
   .email > svg {
     transform: scale(1.8);
-    fill: blue;
+    fill:brown;
   }
   
   .submit {
@@ -34,15 +34,15 @@
     font-size: 18px;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
-    border: 1px solid blue;
-    background-color: #1506f3;
+    border: 1px solid brown;
+    background-color:brown;
     color: white;
     cursor: pointer;
   }
   
   .submit > button:hover {
-    background-color: white;
-    color: #0c10e9;
+    background-color:burlywood;
+    color:brown;
   }
   
   @media screen and (max-width: 600px) {

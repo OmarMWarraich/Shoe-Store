@@ -15,7 +15,7 @@
   .small {
     text-align: center;
     padding: 10px 0;
-    background-color: #0086c3;
+    background-color: blueviolet;
     color: white;
     font-weight: 600;
     display: flex;
@@ -30,17 +30,17 @@
     text-align: center;
   }
   
-  .logoName > h3 {
+  .logoName > h4 {
     font-family: "Great Vibes", cursive;
     letter-spacing: 2px;
     margin: 0;
-    color: #0086c3;
+    color: brown;
     transform: scale(1.8);
     font-size: 2.5rem;
   }
   
   .logoName > p {
-    color: grey;
+    color: red;
   }
   
   @media screen and (max-width: 800px) {

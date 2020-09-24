@@ -1,12 +1,13 @@
 import React from "react";
 import "./home.css";
 
-import MainPageImages from "../../Images/shoes.jpeg";
+import MainPageImages from "../../Images/home.jpeg";
 import Navbar from "../Navbar/navbar";
 
 import { useNavigate } from "react-router-dom";
 
 import HomeImage from "../../Images/home.jpeg";
+
 
 const Home = () => {
   let navigate = useNavigate();
@@ -17,13 +18,13 @@ const Home = () => {
       </div>
       <Navbar name="homeNavbar" />
       <div className="overlayText">
-        <h1>All Shoes are available !</h1>
-        <h3>Summer Collection 2020</h3>
-        <p>
+        <h1>JOOTEY !</h1>
+        <h3>Fall Collection 2020</h3>
+        <p><h3>
           We offer comfortable shoes at highly 
           affordable prices while not compromising
           with the quality of shoes at the same time.
-          All our shoes are proudly made in Pakistan.
+          All our shoes are proudly made in Pakistan.</h3>
         </p>
 
         <button onClick={() => navigate("/shop/products")}>Shop Now</button>

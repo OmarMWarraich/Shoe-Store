@@ -1,58 +1,58 @@
 const shoes = {
     "0": {
-      name: "Maroon Plimsool",
+      name: "BIEGE WOMEN COMFORT WEAR",
       img:
-        "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "https://d31nhyabn98290.cloudfront.net/BrandCity/product/550x550/23072020/_DSC0090-1179869996911.jpg",
     },
     "1": {
-      name: "PAIR OF WHITE SNEAKERS",
+      name: "BLUE MOCASSION SHOES",
       img:
-        "https://images.unsplash.com/photo-1544441892-794166f1e3be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "https://d31nhyabn98290.cloudfront.net/BrandCity/product/550x550/25042020/1587212645-IMG_1985-1158002154948.jpg",
     },
     "2": {
-      name: "RACER BLUE",
+      name: "BIEGE MOCASSION SHOES",
       img:
-        "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "https://d31nhyabn98290.cloudfront.net/BrandCity/product/550x550/25042020/1587212680-IMG_1900-438222062211.jpg",
     },
     "3": {
-      name: "Red Nike Sneaker",
+      name: "NAVY WOMEN FLAT",
       img:
-        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "https://d31nhyabn98290.cloudfront.net/BrandCity/product/550x550/23072020/_DSC0075-1538014513618.jpg",
     },
     "4": {
-      name: "JORDAN MARS 270 LONDON",
+      name: "MAROON WOMEN FLAT",
       img:
-        "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "https://d31nhyabn98290.cloudfront.net/BrandCity/product/550x550/23072020/_DSC0123-450605178439.jpg",
     },
     "5": {
-      name: "BLUE AIR JORDAN",
+      name: "RED PARTY WEAR",
       img:
-        "https://images.unsplash.com/photo-1578116922645-3976907a7671?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "https://d31nhyabn98290.cloudfront.net/BrandCity/product/550x550/23072020/_DSC0140-532615756748.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
     },
     "6": {
-      name: "BLACK PUMA SUEDE",
+      name: "SILVER WOMEN PARTY WEAR",
       img:
-        "https://images.unsplash.com/photo-1545289414-1c3cb1c06238?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "https://d31nhyabn98290.cloudfront.net/BrandCity/product/550x550/23072020/DSC06674-1460679836284.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
     },
     "7": {
-      name: "WHITE AND BLACK NIKE AIR FORCE",
+      name: "GOLDEN COURT SHOES",
       img:
-        "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "https://d31nhyabn98290.cloudfront.net/BrandCity/product/550x550/25042020/1587212296-IMG_1785-750536365736.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
     },
     "8": {
-      name: "HIGH TOP SHOES",
+      name: "BLACK COURT SHOES",
       img:
-        "https://images.unsplash.com/photo-1556048219-bb6978360b84?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "https://d31nhyabn98290.cloudfront.net/BrandCity/product/550x550/25042020/1587212307-IMG_1794-1120338170987.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
     },
     "9": {
-      name: "WHITE-GREEN SNEAKERS",
+      name: "SILVER COURT SHOES",
       img:
-        "https://media.istockphoto.com/photos/modern-sport-shoes-picture-id623270836?b=1&k=6&m=623270836&s=612x612&h=KcNuCJ2GEqpYCcVRNOOk3Atsm_O9VZzzzmNIztfFYag=",
+        "https://d31nhyabn98290.cloudfront.net/BrandCity/product/550x550/25042020/1587212458-IMG_1838-1333905783206.jpg?b=1&k=6&m=623270836&s=612x612&h=KcNuCJ2GEqpYCcVRNOOk3Atsm_O9VZzzzmNIztfFYag=",
     },
     "10": {
-      name: "VALOUR BLUE",
+      name: "PEACH BRIDAL",
       img:
-        "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1",
+        "https://d31nhyabn98290.cloudfront.net/BrandCity/product/550x550/25042020/1587818299-DSC06528-1410486320261.jpg",
     },
   };
   

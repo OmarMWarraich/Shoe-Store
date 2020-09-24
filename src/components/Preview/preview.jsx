@@ -35,10 +35,7 @@ const Preview = () => {
       <div className="descriptions">
         <h3>{name}</h3>
         <p>
-          Full canvas double sided print with rounded toe construction, Lace-up
-          closure for a snug fit, Soft textile lining with lightweight
-          construction for maximum comfort, High-quality EVA outsole for
-          traction and exceptional durability.
+          Robust, Durable, Fancy, Comfy, Party, Casual Wear.
         </p>
         <div className="colors">
           <div className="red"></div>
@@ -47,7 +44,7 @@ const Preview = () => {
           <div className="brown"></div>
         </div>
         <div className="priceRatings">
-          <p>Price : Rs. 1000</p>
+          <p>Price : Rs. 2500</p>
           <p className="ratings">
             {array.map((icon) => {
               return icon;

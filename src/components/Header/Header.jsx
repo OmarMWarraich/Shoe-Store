@@ -11,7 +11,7 @@ const Header = () => {
   let value = React.useContext(contexts.ValueContext);
   return (
     <div className="header">
-      <div>Shoes</div>
+      <div>Jootey</div>
 
       <nav>
         <li>

@@ -15,7 +15,7 @@
     position: absolute;
     top: 20%;
     left: 10%;
-    color: white;
+    color:purple;
     text-shadow: 2px 2px 4px #000000;
   }
   
@@ -32,7 +32,7 @@
   .overlayText > p {
     max-width: 500px;
     font-size: 20px;
-    /* color: #017de2; */
+    color:purple;
     /* color: #4e0ce9; */
   }
   
@@ -41,7 +41,7 @@
   }
   
   .overlayText > button:hover {
-    background-color: #009ccc;
+    background-color:whitesmoke;
     text-shadow: none;
   }
   
@@ -51,7 +51,7 @@
     font-size: 20px;
     padding: 10px 20px;
     cursor: pointer;
-    color: white;
+    color:purple;
     text-shadow: 2px 2px 4px #000000;
     font-weight: bolder;
     border: 2px solid white;
@@ -69,7 +69,7 @@
   }
   
   .homeNavbar > a {
-    color: white !important;
+    color:purple !important;
     font-weight: bolder;
     font-size: 20px;
     border: none !important;
@@ -91,7 +91,7 @@
   
   @media screen and (max-width: 600px) {
     .homeNavbar {
-      background-color: #29b6f6 !important;
+      background-color: blueviolet !important;
       padding: 0;
       padding-top: 5px;
     }
